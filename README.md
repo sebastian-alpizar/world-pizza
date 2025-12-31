@@ -2,7 +2,7 @@
 Sitio web de restaurante — HTML5, CSS3 y JavaScript
 
 ## Descripción General
-World Pizza es una página web estática, moderna y completamente responsive desarrollada con HTML5, CSS3 y JavaScript puro, creada como parte de un curso de desarrollo web desde cero.
+World Pizza es una página web estática, moderna y completamente responsive desarrollada con HTML5, CSS3 y JavaScript puro.
 
 El proyecto simula el sitio web de un restaurante de pizzas y comida rápida, incorporando animaciones, interacciones dinámicas y efectos visuales profesionales sin el uso de frameworks.
 
